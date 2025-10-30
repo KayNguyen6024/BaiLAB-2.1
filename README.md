@@ -8,14 +8,12 @@ Giới thiệu
 - Kết nối cơ sở dữ liệu qua lớp Database
 
 📁 Cấu trúc thư mục
-
 ├── main.py               # Chương trình chính
 ├── database.py           # Lớp kết nối và thao tác với cơ sở dữ liệu
 ├── student.py            # Lớp quản lý sinh viên
 ├── course.py             # Lớp quản lý khóa học
 ├── enrollment.py         # Lớp quản lý đăng ký khóa học
 └── README.md             # Tài liệu hướng dẫn
-
 ⚙️ Hướng dẫn sử dụng
 - Cài đặt Python và MySQL.
 - Tạo cơ sở dữ liệu với các bảng: students, courses, enrollments.
