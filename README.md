@@ -16,7 +16,6 @@ Giới thiệu
 ├── enrollment.py         # Lớp quản lý đăng ký khóa học
 └── README.md             # Tài liệu hướng dẫn
 
-
 ⚙️ Hướng dẫn sử dụng
 - Cài đặt Python và MySQL.
 - Tạo cơ sở dữ liệu với các bảng: students, courses, enrollments.
