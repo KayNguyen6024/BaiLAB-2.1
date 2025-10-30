@@ -6,7 +6,9 @@ Giới thiệu
 - MySQL (hoặc hệ quản trị cơ sở dữ liệu tương thích)
 - Mô hình lập trình hướng đối tượng (OOP)
 - Kết nối cơ sở dữ liệu qua lớp Database
+
 📁 Cấu trúc thư mục
+
 ├── main.py               # Chương trình chính
 ├── database.py           # Lớp kết nối và thao tác với cơ sở dữ liệu
 ├── student.py            # Lớp quản lý sinh viên
